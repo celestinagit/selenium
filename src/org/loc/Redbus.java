@@ -18,7 +18,8 @@ public class Redbus {
 	    WebElement to = driver.findElement(By.id("dest"));
 	    to.sendKeys("Coimbatore");
 	
-	
+	    //juz to check git update
+	    System.out.println("juz to check git update");
 	
 	}
 }
